@@ -1,0 +1,8 @@
+{
+  "codex_command": ["codex"],
+  "cli_version": "0.159.2",
+  "model": "your-codex-model",
+  "codex_auth_file": "~/.codex/auth.json",
+  "turn_timeout_seconds": 180,
+  "read_root": "/absolute/path/to/your/read-only-folder"
+}

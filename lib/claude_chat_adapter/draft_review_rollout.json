@@ -1,0 +1,6 @@
+{
+  "version": "companion-draft-review-rollout/v1",
+  "enabled": false,
+  "sessions": [],
+  "classifier_version": "companion-chat-draft-classify/v1"
+}
